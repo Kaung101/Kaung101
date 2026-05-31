@@ -1,7 +1,9 @@
-# Hello there 👋
+# Hello there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"></h2>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+### A little bit about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
 
 ```python
 #!/usr/bin/python
@@ -24,7 +26,7 @@ me.say_hi()
 ```
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="65">
 
 **Programming Languages:**
 
@@ -55,7 +57,6 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 
----
 
 
 
