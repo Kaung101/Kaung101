@@ -57,10 +57,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaung101&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 
